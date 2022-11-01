@@ -1,6 +1,6 @@
 [![MasterHead](https://i.postimg.cc/fbxyQFFL/Sem-t-tulo.png)](https://www.linkedin.com/in/paola-eurich-9a4aa297/)
 
-<h1 align="center">Olá 👋, eu sou a Paola!</h1>
+<h1 align="center">Olá, eu sou a Paola! 👩‍💻</h1>
 <h3 align="center">Uma front-end (e estudante de back) de Curitiba</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
