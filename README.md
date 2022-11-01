@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-banner-computer-code-laptop-vector-illustration_3482-6646.jpg?w=996)](https://www.linkedin.com/in/paola-eurich-9a4aa297/)
+[![MasterHead](https://i.postimg.cc/fbxyQFFL/Sem-t-tulo.png)](https://www.linkedin.com/in/paola-eurich-9a4aa297/)
 
 <h1 align="center">Olá 👋, eu sou a Paola!</h1>
 <h3 align="center">Uma front-end (e estudante de back) de Curitiba</h3>
