@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente, estou trabalhando no projeto final do meu primeiro módulo de back-end, chamado [AUMMA - Apoie Uma Mãe](https://github.com/M4GROUP/projetofinal_m4)
 
-- 🌱 Meu foco no momento é aprender Python
+- 🌱 Meu foco no momento é aprender CSS Animation
 
 - 📫 Você pode entrar em contato comigo através deste e-mail **lola.tatti@gmail.com**
 
