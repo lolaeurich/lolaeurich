@@ -4,16 +4,6 @@
 
 <br>
 <br>
-
-- 🔭 Atualmente, estou trabalhando no projeto final do meu primeiro módulo de back-end, chamado [AUMMA - Apoie Uma Mãe](https://github.com/M4GROUP/projetofinal_m4)
-
-- 🌱 Meu foco no momento é aprender CSS Animation
-
-- 📫 Você pode entrar em contato comigo através deste e-mail **lola.tatti@gmail.com**
-
-- 📄 Saiba mais sobre as minhas experiências profissionais [LinkedIn](https://www.linkedin.com/in/paola-eurich-9a4aa297/)
-
-- ⚡ Fun fact: **eu falo javanês**
 <br>
 
 <h3 align="left">Connect with me:</h3>
