@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Front-End%20Developer&fontSize=80)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Front-End%20Developer&fontSize=80)
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVhNG55a3ZhcWFkNDhma2wydnlhZWJnZjFicTQwbnVtdmU5eWNnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2z956IUc3J0noEOXUL/giphy.gif" width="200"/>
 </div>
 
